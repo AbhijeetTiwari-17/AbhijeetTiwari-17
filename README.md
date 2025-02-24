@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhijeet Tiwari
-- 👀 I’m interested in learning digital things
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently looking for opportunity as a data scientist or data analyst role
 - 📫 You can reach me through abhijeettiwari579@gmail.com
 
 <!---
