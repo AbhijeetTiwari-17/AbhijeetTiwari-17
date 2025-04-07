@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhijeet Tiwari
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently looking for opportunity as a data scientist or data analyst role
+- 🌱 I’m currently looking for opportunity as a AI&ML Engineer role
 - 📫 You can reach me through abhijeettiwari579@gmail.com
 
 <!---
